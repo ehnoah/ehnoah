@@ -13,4 +13,5 @@
 <br>
 <center>like this repository with over 1k stars on github with a bug found by me, fixed by me, and you best hope not merged by you.</center>
 <br>
-<img src="images/engineer.gif" alt="Engineer from TF2 from the video referenced above" />
+
+[](images/engineer2.gif)
