@@ -13,4 +13,5 @@
 <br>
 <center>like this repository with over 1k stars on github with a bug found by me, fixed by me, and you best hope not merged by you.</center>
 <br>
-![the engineer from team fortress 2 in meet the engineer](https://c.tenor.com/ZVs4foJUFtUAAAAd/tenor.gif)
+[](https://c.tenor.com/ZVs4foJUFtUAAAAd/tenor.gif)
+<img src="https://c.tenor.com/ZVs4foJUFtUAAAAd/tenor.gif" alt="Engineer from TF2 from the video referenced above" />
