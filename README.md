@@ -1,4 +1,4 @@
-<center>## hey look buddy, i'm a software engineer.</center>
+## <center>hey look buddy, i'm a software engineer.</center>
 <center>that means i solve problems. not problems like what is beauty,</center>
 <center>because that would fall within the purview of your conundrum of philosophy.</center>
 <center>i solve practical problems!</center>
