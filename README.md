@@ -4,4 +4,4 @@ that means i solve problems. not problems like what is beauty, because that woul
 i solve practical problems!</center>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehnoah&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehnoah&layout=compact)
+
